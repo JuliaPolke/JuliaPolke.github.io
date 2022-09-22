@@ -46,7 +46,9 @@ Gründungsmitglied; Aufbau eines Franchise-Stores der Marke FurtaCor, Kontakte z
 
 * **Kunstgalerie Murilo Castro** (2004 - 2011, Belo Horizonte, Brasilien)
 Hostess auf der SP-Art fair (Sao Paulo), Empfangsdame bei Ausstellungen und Auktionen
+
 ## AUSBILDUNG
+
 * **TechLabs UX Design Kurs** (März - Juli 2022, Berlin)
 Grundlagen des UX-Designs: Grundlagen des UX-Designs: Ideenfindung, User-Interviews, User-Research, User-Tests, Prototyping, Wireframing.
 
