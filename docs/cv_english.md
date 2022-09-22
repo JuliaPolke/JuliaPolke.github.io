@@ -6,11 +6,11 @@ title: CV in English
 
 # Julia Polke de Castro
 
-Address:    Taborstr. 21, 10997 Berlin  
+<!-- Address:    Taborstr. 21, 10997 Berlin  
 Phone:  +49 1578 3919548   
 Email:  jupolke@gmail.com   
 Birthday:   07.01.1988 in Belo Horizonte, BR  
-Nationality:    German and Brazilian
+Nationality:    German and Brazilian -->
 
 
 ## WORK EXPERIENCE
