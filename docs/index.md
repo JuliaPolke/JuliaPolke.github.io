@@ -10,6 +10,6 @@ Feel free to contact me via [Linkedin](https://www.linkedin.com/in/julia-polke-d
 <img src="JuliaPolke_foto.jpg" alt="drawing" width="200"/>
 
 Find my portfolio and CV in english or german here:
-- [Portfolio](portfolio.html)
-- [CV in English](cv_english.html)
-- [CV in Deutsch](cv_deutsch.html)
+- [Portfolio](portfolio.html)  
+- [CV in English](cv_english.html)  
+- [CV in Deutsch](cv_deutsch.html)  
