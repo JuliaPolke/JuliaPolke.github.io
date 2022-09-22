@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CV in English
+title: Portfolio
 ---
 
 Here Julia's portfolio will be added soon. 
