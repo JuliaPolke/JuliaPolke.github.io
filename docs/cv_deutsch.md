@@ -1,4 +1,9 @@
 
+---
+layout: default
+title: CV in Deutsch
+---
+
 # Julia Polke de Castro
 
 Adresse: Taborstr. 21, 10997 Berlin
